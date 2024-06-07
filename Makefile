@@ -1,4 +1,4 @@
-PAPER=CV
+PAPER=Noneman_CV
 
 hw: 
 	pdflatex $(PAPER).tex
