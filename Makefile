@@ -1,4 +1,4 @@
-PAPER=cv-03_27_22
+PAPER=CV
 
 hw: 
 	pdflatex $(PAPER).tex
